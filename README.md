@@ -11,7 +11,7 @@ This project explores market trends in Airbnb listings using a real-world datase
 - Calculated the **average listing price**, rounding it to two decimal places.
 - Combined all insights into a single summary `DataFrame`.
 
-## 📊 Summary Output Example
+## 📊 Summary Output
 
 | first_reviewed | last_reviewed | nb_private_rooms | avg_price |
 |----------------|---------------|------------------|-----------|
